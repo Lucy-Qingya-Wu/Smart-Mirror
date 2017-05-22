@@ -1,0 +1,6 @@
+google map
+google calender
+google search
+wechat API(display the message)
+listening image
+artificial intelligence for conversation
